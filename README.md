@@ -1,2 +1,0 @@
-# surfspotninja
-Surfspotninja repository
